@@ -1,1 +1,1 @@
-My first site 
+My first site using html and JavaScript
